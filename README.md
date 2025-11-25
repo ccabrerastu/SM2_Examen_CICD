@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # EXAMEN PRÁCTICO – UNIDAD III  
 ## Desarrollo de Aplicaciones Móviles  
@@ -111,3 +112,6 @@ SM2_ExamenUnidad3/
 
 
 
+=======
+# SM2_Examen_CICD
+>>>>>>> af8a44becc7cdd05f34b446846714394a3013bf8
