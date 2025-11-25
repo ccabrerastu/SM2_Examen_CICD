@@ -1,0 +1,383 @@
+{
+  "@@locale": "es",
+  "appTitle": "TECHSPEAK",
+  "login": "Iniciar Sesión",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "loginButton": "Entrar",
+  "loginWithGoogle": "Iniciar con Google",
+  "loginWithApple": "Iniciar con Apple",
+  "emailRequired": "El correo es requerido",
+  "emailInvalid": "Ingrese un correo válido",
+  "passwordRequired": "La contraseña es requerida",
+  "passwordTooShort": "La contraseña debe tener al menos 12 caracteres",
+  "hi": "Hola",
+  "continueText": "Continuar",
+  "vocabulary": "Vocabulario",
+  "reading": "Lectura",
+  "readingPracticeSubtitle": "Practica las palabras",
+  "interview": "Entrevista",
+  "chooseYourPreferredTopic": "Elige tu tema preferido",
+  "home": "Inicio",
+  "documents": "Documentos",
+  "book": "Libro",
+  "help": "Ayuda",
+  "settings": "Configuración",
+  "theme": "Tema",
+  "language": "Idioma",
+  "lightTheme": "Claro",
+  "darkTheme": "Oscuro",
+  "colorPalette": "Paleta de Colores",
+  "system": "Sistema",
+  "notifications": "Notificaciones",
+  "notificationsEnabled": "Notificaciones activadas",
+  "notificationsDisabled": "Notificaciones desactivadas",
+  "logout": "Cerrar Sesión",
+  "selectLanguage": "Seleccionar Idioma",
+  "selectColorPalette": "Seleccionar Paleta de Colores",
+  "confirmLogout": "Confirmar Cerrar Sesión",
+  "logoutConfirmation": "¿Estás seguro de que quieres cerrar sesión?",
+  "cancel": "Cancelar",
+  "welcomeBack": "¡Bienvenido de vuelta!",
+  "yourLearningPath": "Tu Ruta de Aprendizaje",
+  "learningSlogan": "Aprende • Practica • Domina",
+  "signingYouIn": "Iniciando sesión...",
+  "connectingWithGoogle": "Conectando con Google...",
+  "connectingWithApple": "Conectando con Apple...",
+  "loadingExperience": "Cargando tu experiencia de aprendizaje...",
+  "initializingExperience": "Inicializando tu experiencia de aprendizaje...",
+  "or": "O",
+  "user": "Usuario",
+  "loading": "Cargando...",
+
+  "livesRemaining": "{lives} vidas restantes",
+  "@livesRemaining": {
+    "placeholders": {
+      "lives": { "type": "int", "example": "3" }
+    }
+  },
+
+  "chapterProgress": "Cap 4/5",
+  "software": "Software",
+  "databases": "Bases de Datos",
+
+  "navigatingToSection": "Navegando a la sección {section}...",
+  "@navigatingToSection": {
+    "placeholders": {
+      "section": { "type": "String", "example": "Vocabulario" }
+    }
+  },
+
+  "emailPasswordRequired": "El correo y la contraseña son requeridos",
+  "invalidCredentials": "Credenciales inválidas. Verifica tu correo y contraseña.",
+  "googleSignInFailed": "Error al iniciar sesión con Google",
+  "appleSignInFailed": "Error al iniciar sesión con Apple",
+  "errorDuringLogout": "Error al cerrar sesión",
+  "errorCheckingAuth": "Error al verificar el estado de autenticación",
+  "errorInMockLogin": "Error en el inicio de sesión de prueba",
+  "folders": "Carpetas",
+  "comingSoon": "Próximamente",
+
+  "sectionTitle": "Sección {title}",
+  "@sectionTitle": {
+    "placeholders": {
+      "title": { "type": "String", "example": "Vocabulario" }
+    }
+  },
+
+  "selectCustomColor": "Seleccionar Color Personalizado",
+  "hue": "Matiz",
+  "saturation": "Saturación",
+  "lightness": "Luminosidad",
+  "quickColors": "Colores Rápidos",
+  "selectColor": "Seleccionar Color",
+
+  "quiz": "Quiz",
+  "question": "Pregunta",
+  "submit": "Enviar",
+  "nextQuestion": "Siguiente Pregunta",
+  "score": "Puntuación",
+  "points": "puntos",
+
+  "completeePreviousEpisode": "Completa el episodio anterior para desbloquear este",
+  "episodeCompleted": "Episodio completado - Toca para repetir",
+  "continueEpisode": "Continuar episodio",
+  "completePreviousEpisode": "Completa el episodio anterior para desbloquear",
+
+  "playingEpisode": "Reproduciendo {episodeTitle}",
+  "@playingEpisode": {
+    "placeholders": {
+      "episodeTitle": { "type": "String", "example": "Episodio 1" }
+    }
+  },
+
+  "dontHaveAccount": "¿No tienes una cuenta?",
+  "signUp": "Registrarse",
+  "createAccount": "Crear Cuenta",
+  "joinUsSlogan": "Únete para comenzar tu viaje con el inglés técnico",
+  "fullName": "Nombre Completo",
+  "enterFullName": "Ingresa tu nombre completo",
+  "confirmPassword": "Confirmar Contraseña",
+  "enterConfirmPassword": "Confirma tu contraseña",
+  "acceptTerms": "Acepto los Términos de Servicio y Política de Privacidad",
+  "pleaseEnterName": "Por favor ingresa tu nombre",
+  "nameTooShort": "El nombre debe tener al menos 2 caracteres",
+  "passwordsDontMatch": "Las contraseñas no coinciden",
+  "pleaseAcceptTerms": "Por favor acepta los términos y condiciones",
+  "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "signIn": "Iniciar Sesión",
+  "creatingAccount": "Creando tu cuenta...",
+  "register": "Registrarse",
+  "signUpWithGoogle": "Registrarse con Google",
+  "signUpWithApple": "Registrarse con Apple",
+  "creatingAccountWithGoogle": "Creando cuenta con Google...",
+  "creatingAccountWithApple": "Creando cuenta con Apple...",
+
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "checkYourEmail": "Revisa tu correo",
+  "forgotPasswordSubtitle": "¡No te preocupes! Ingresa tu dirección de correo y te enviaremos un enlace para restablecer tu contraseña.",
+  "emailSentMessage": "Hemos enviado un enlace para restablecer tu contraseña a tu dirección de correo. Por favor revisa tu bandeja de entrada y sigue las instrucciones.",
+  "emailAddress": "Dirección de correo",
+  "enterEmailAddress": "Ingresa tu dirección de correo",
+  "sendResetLink": "Enviar enlace de restablecimiento",
+  "backToLogin": "Volver al inicio de sesión",
+  "emailSent": "Correo enviado",
+  "sendingResetLink": "Enviando enlace de restablecimiento...",
+  "emailSentSuccessfully": "¡Correo de restablecimiento enviado exitosamente!",
+  "resendEmail": "Reenviar correo",
+  "openEmailApp": "Abrir aplicación de correo",
+  "resetLinkSentAgain": "¡Enlace de restablecimiento enviado nuevamente!",
+  "openingEmailApp": "Abriendo aplicación de correo...",
+  "forgotPasswordQuestion": "¿Olvidaste tu contraseña?",
+  "rememberSession": "Recordar sesión",
+
+  "livesResetTomorrow": "Las vidas se reinician mañana",
+  "nextResetTomorrow": "Próximo reinicio mañana",
+  "refresh": "Actualizar",
+  "episodeRoadmap": "Mapa de Episodios",
+
+  "repeatChapterTitle": "Repetir Capítulo",
+  "repeatChapterWarning": "Ya has completado este capítulo. Repetirlo no afectará tu puntuación actual, ¡pero es una excelente manera de reforzar tu aprendizaje!",
+
+  "currentScore": "Puntuación actual: {score} puntos",
+  "@currentScore": {
+    "placeholders": {
+      "score": { "type": "int", "example": "42" }
+    }
+  },
+
+  "repeatChapterBenefit": "¡La práctica lleva a la perfección! Aprovecha esta oportunidad para fortalecer tu conocimiento.",
+  "repeatChapter": "Repetir Capítulo",
+
+  "chapterResetForRepetition": "El capítulo '{chapterTitle}' ha sido reiniciado para repetición. ¡Tu puntuación original se mantiene!",
+  "@chapterResetForRepetition": {
+    "placeholders": {
+      "chapterTitle": { "type": "String", "example": "Fundamentos de Inglés" }
+    }
+  },
+
+  "progress": "Progreso",
+  "episodeContent": "Contenido del Episodio",
+  "episodeContentPlaceholder": "El contenido del episodio se mostrará aquí",
+  "replayEpisode": "Repetir Episodio",
+  "startEpisode": "Iniciar Episodio",
+
+  "startingEpisode": "Iniciando {episodeTitle}...",
+  "@startingEpisode": {
+    "placeholders": {
+      "episodeTitle": { "type": "String", "example": "Episodio 2" }
+    }
+  },
+
+  "vocabularyChaptersTitle": "Capítulos de Vocabulario",
+  "loadingVocabularyChapters": "Cargando capítulos de vocabulario...",
+  "errorLoadingChapters": "Error al cargar capítulos",
+  "unknownError": "Ocurrió un error desconocido",
+  "dismiss": "Descartar",
+  "tryAgain": "Intentar de nuevo",
+  "noChaptersAvailable": "No hay capítulos disponibles",
+  "noChaptersDescription": "Vuelve más tarde para ver nuevos capítulos de vocabulario",
+  "yourProgress": "Tu Progreso",
+  "chaptersCompleted": "Capítulos Completados",
+  "unlocked": "Desbloqueado",
+  "locked": "Bloqueado",
+  "completed": "Completado",
+  "continue_": "Continuar",
+  "start": "Comenzar",
+  "chapterLocked": "Capítulo Bloqueado",
+
+  "chapterLockedDescription": "Completa el capítulo {previousChapter} para desbloquear este capítulo",
+  "@chapterLockedDescription": {
+    "placeholders": {
+      "previousChapter": { "type": "int", "example": "3" }
+    }
+  },
+
+  "understood": "Entendido",
+  "chapterCompleted": "Capítulo Completado",
+  "chapterCompletedDescription": "Ya completaste este capítulo. Puedes repasarlo cuando quieras.",
+
+  "completedOn": "Completado el {date}",
+  "@completedOn": {
+    "placeholders": {
+      "date": { "type": "String", "example": "31/12/2025" }
+    }
+  },
+
+  "close": "Cerrar",
+  "reviewChapter": "Repasar Capítulo",
+  "noLivesTitle": "Sin Vidas Disponibles",
+  "noLivesMessage": "Necesitas al menos una vida para comenzar un capítulo. Las vidas se reinician diariamente.",
+  "nextResetAt": "Próximo reinicio a las {time}",
+  "@nextResetAt": {
+    "placeholders": {
+      "time": { "type": "String", "example": "08:00" }
+    }
+  },
+
+  "evaluationDetails": "Detalles de la Evaluación",
+  "completedDate": "Fecha de Finalización",
+  "attempts": "Intentos",
+  "timeSpent": "Tiempo Empleado",
+  "skillBreakdown": "Desglose por Habilidades",
+  "feedback": "Retroalimentación",
+  "featureComingSoon": "Función próximamente disponible",
+  "chapter": "Capítulo",
+  "evaluationInfo": "Información de la Evaluación",
+  "chapterResults": "Resultados por Capítulo",
+  "allChapters": "Todos los Capítulos",
+  "noEvaluationsFound": "No se encontraron evaluaciones",
+  "completeChaptersToSeeResults": "Completa capítulos para ver resultados",
+
+  "restart": "Reiniciar",
+  "restartPracticeConfirm": "¿Estás seguro de que quieres reiniciar? Tu progreso actual se perderá.",
+  "error": "Error",
+  "unknownError": "Ocurrió un error desconocido",
+  "retry": "Reintentar",
+  "noVocabularyItems": "No hay elementos de vocabulario disponibles",
+  "showAnswer": "Mostrar Respuesta",
+  "dontKnow": "No Sé",
+  "iKnow": "Sí Sé",
+  "practiceCompleted": "¡Práctica Completada!",
+  "score": "Puntuación",
+  "correct": "Correcto",
+  "incorrect": "Incorrecto",
+  "practiceAgain": "Practicar de Nuevo",
+  "backToChapters": "Volver a Capítulos",
+
+  "readingChapters": "Capítulos de Lectura",
+  "page": "Página",
+  "chaptersCompleted": "Capítulos Completados",
+  "completed": "Completado",
+  "chapterLocked": "Este capítulo está bloqueado. Completa el capítulo anterior primero.",
+  "noLives": "Sin Vidas",
+  "noLivesMessage": "No te quedan vidas. Por favor espera al siguiente reinicio.",
+  "nextReset": "Próximo Reinicio",
+  "ok": "OK",
+  "noChaptersAvailable": "No hay capítulos disponibles",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "startQuiz": "Iniciar Quiz",
+  "question": "Pregunta",
+  "submit": "Enviar",
+  "congratulations": "¡Felicitaciones!",
+  "chapterCompleted": "¡Has completado este capítulo!",
+  "tryAgain": "Intentar de Nuevo",
+  "scoreNotEnough": "Necesitas al menos 7 respuestas correctas para aprobar (70%).",
+  "exitQuiz": "Salir del Quiz",
+  "exitQuizConfirmation": "¿Estás seguro de que quieres salir? Tu progreso se perderá.",
+  "exit": "Salir",
+
+  "outOfLives": "¡Sin Vidas!",
+  "outOfLivesMessage": "Has usado todas tus vidas por hoy. ¡Tómate un descanso y vuelve mañana para empezar de nuevo!",
+  "livesReset": "Reinicio de Vidas",
+  "nextResetIn": "Próximo reinicio de vidas en {hours} horas",
+  "@nextResetIn": {
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "reviewTime": "¡Usa este tiempo para repasar lo que has aprendido!",
+  "iUnderstand": "Entendido",
+
+  "interviewTopicsTitle": "Temas de Entrevista",
+  "loadingInterviewTopics": "Cargando temas de entrevista...",
+  "noTopicsAvailable": "No hay temas disponibles",
+  "startInterviewTitle": "¿Iniciar Entrevista de {topicName}?",
+  "@startInterviewTitle": {
+    "placeholders": {
+      "topicName": { "type": "String", "example": "JavaScript" }
+    }
+  },
+  "questions": "Preguntas",
+  "duration": "Duración",
+  "difficulty": "Dificultad",
+  "questionsCount": "{count} preguntas",
+  "@questionsCount": {
+    "placeholders": {
+      "count": { "type": "int", "example": "5" }
+    }
+  },
+  "durationMinutes": "{minutes} min",
+  "@durationMinutes": {
+    "placeholders": {
+      "minutes": { "type": "int", "example": "8" }
+    }
+  },
+  "interviewDash": "Entrevista - {topicName}",
+  "@interviewDash": {
+    "placeholders": {
+      "topicName": { "type": "String", "example": "JavaScript" }
+    }
+  },
+  "voiceRecordingComingSoon": "Grabación de Voz - Próximamente",
+  "holdToRecord": "Mantén presionado para grabar",
+  "releaseToSend": "Suelta para enviar",
+  "recording": "Grabando...",
+  "getResults": "Obtener Resultados",
+  "sendingAudio": "Enviando audio...",
+  "recordedSeconds": "Grabado: {seconds}s",
+  "@recordedSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "nextQuestion": "Siguiente Pregunta",
+  "reRecord": "Grabar de Nuevo",
+  "yourAnswer": "Tu Respuesta",
+  "typeYourAnswerHere": "Escribe tu respuesta aquí...",
+  "minimumCharacters": "Mínimo {count} caracteres",
+  "@minimumCharacters": {
+    "placeholders": {
+      "count": { "type": "int", "example": "80" }
+    }
+  },
+  "pleaseEnterAnswer": "Por favor ingresa una respuesta",
+  "submitAnswer": "Enviar Respuesta",
+  "answerEvaluation": "Evaluación de la Respuesta",
+  "scoreBreakdown": "Desglose de Puntuación",
+  "viewFinalResults": "Ver Resultados Finales",
+  "interviewComplete": "Entrevista Completada",
+  "keepPracticing": "¡Sigue Practicando!",
+  "overallScore": "Puntuación General: {score}/100",
+  "@overallScore": {
+    "placeholders": {
+      "score": { "type": "String", "example": "85.5" }
+    }
+  },
+  "backToTopics": "Volver a Temas",
+  "fluency": "Fluidez",
+  "grammar": "Gramática",
+  "vocabulary_skill": "Vocabulario",
+  "pronunciation": "Pronunciación",
+  "coherence": "Coherencia",
+  "beginner": "Principiante",
+  "intermediate": "Intermedio",
+  "advanced": "Avanzado"
+}

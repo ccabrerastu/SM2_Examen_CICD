@@ -1,0 +1,161 @@
+{
+  "@@locale": "qu",
+  "appTitle": "TECHSPEAK",
+  "login": "Iniciar Sesión",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "loginButton": "Entrar",
+  "loginWithGoogle": "Iniciar con Google",
+  "loginWithApple": "Iniciar con Apple",
+  "emailRequired": "El correo es requerido",
+  "emailInvalid": "Ingrese un correo válido",
+  "passwordRequired": "La contraseña es requerida",
+  "passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+  "hi": "Hola",
+  "continueText": "Continuar",
+  "vocabulary": "Vocabulario",
+  "reading": "Lectura",
+  "interview": "Entrevista",
+  "home": "Inicio",
+  "documents": "Documentos",
+  "book": "Libro",
+  "help": "Ayuda",
+  "settings": "Configuración",
+  "theme": "Tema",
+  "language": "Idioma",
+  "lightTheme": "Claro",
+  "darkTheme": "Oscuro",
+  "colorPalette": "Paleta de Colores",
+  "system": "Sistema",
+  "notifications": "Notificaciones",
+  "notificationsEnabled": "Notificaciones activadas",
+  "notificationsDisabled": "Notificaciones desactivadas",
+  "logout": "Cerrar Sesión",
+  "selectLanguage": "Seleccionar Idioma",
+  "selectColorPalette": "Seleccionar Paleta de Colores",
+  "confirmLogout": "Confirmar Cerrar Sesión",
+  "logoutConfirmation": "¿Estás seguro de que quieres cerrar sesión?",
+  "cancel": "Cancelar",
+  "welcomeBack": "¡Bienvenido de vuelta!",
+  "yourLearningPath": "Tu Ruta de Aprendizaje",
+  "learningSlogan": "Aprende • Practica • Domina",
+  "signingYouIn": "Iniciando sesión...",
+  "connectingWithGoogle": "Conectando con Google...",
+  "connectingWithApple": "Conectando con Apple...",
+  "loadingExperience": "Cargando tu experiencia de aprendizaje...",
+  "initializingExperience": "Inicializando tu experiencia de aprendizaje...",
+  "or": "O",
+  "user": "Usuario",
+  "livesRemaining": "{lives}/5",
+  "@livesRemaining": {
+    "placeholders": {
+      "lives": { "type": "int", "example": "3" }
+    }
+  },
+  "chapterProgress": "Cap 4/5",
+  "software": "Software",
+  "databases": "Bases de Datos",
+  "navigatingToSection": "Navegando a la sección {section}...",
+  "@navigatingToSection": {
+    "placeholders": {
+      "section": {
+        "type": "String",
+        "example": "vocabulario"
+      }
+    }
+  },
+  "emailPasswordRequired": "El correo y la contraseña son requeridos",
+  "googleSignInFailed": "Error al iniciar sesión con Google",
+  "appleSignInFailed": "Error al iniciar sesión con Apple",
+  "errorDuringLogout": "Error al cerrar sesión",
+  "errorCheckingAuth": "Error al verificar el estado de autenticación",
+  "errorInMockLogin": "Error en el inicio de sesión de prueba",
+  "folders": "Carpetas",
+  "comingSoon": "Próximamente",
+  "sectionTitle": "Sección {title}",
+  "@sectionTitle": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "Vocabulario"
+      }
+    }
+  },
+  "selectCustomColor": "Seleccionar Color Personalizado",
+  "hue": "Matiz",
+  "saturation": "Saturación",
+  "lightness": "Luminosidad",
+  "quickColors": "Colores Rápidos",
+  "selectColor": "Seleccionar Color",
+  "quiz": "Quiz",
+  "question": "Pregunta",
+  "submit": "Enviar",
+  "nextQuestion": "Siguiente Pregunta",
+  "score": "Puntuación",
+  "points": "puntos",
+  "completeePreviousEpisode": "Completa el episodio anterior para desbloquear este",
+  "episodeCompleted": "Episodio completado - Toca para repetir",
+  "continueEpisode": "Continuar episodio",
+  "completePreviousEpisode": "Completa el episodio anterior para desbloquear",
+  "playingEpisode": "Reproduciendo {episodeTitle}",
+  "@playingEpisode": {
+    "placeholders": {
+      "episodeTitle": {
+        "type": "String",
+        "example": "Episodio 1"
+      }
+    }
+  },
+  "dontHaveAccount": "¿No tienes una cuenta?",
+  "signUp": "Registrarse",
+  "createAccount": "Crear Cuenta",
+  "joinUsSlogan": "Únete para comenzar tu viaje con el inglés técnico",
+  "fullName": "Nombre Completo",
+  "enterFullName": "Ingresa tu nombre completo",
+  "confirmPassword": "Confirmar Contraseña",
+  "enterConfirmPassword": "Confirma tu contraseña",
+  "acceptTerms": "Acepto los Términos de Servicio y Política de Privacidad",
+  "pleaseEnterName": "Por favor ingresa tu nombre",
+  "nameTooShort": "El nombre debe tener al menos 2 caracteres",
+  "passwordsDontMatch": "Las contraseñas no coinciden",
+  "pleaseAcceptTerms": "Por favor acepta los términos y condiciones",
+  "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "signIn": "Iniciar Sesión",
+  "creatingAccount": "Creando tu cuenta...",
+  "register": "Registrarse",
+  "signUpWithGoogle": "Registrarse con Google",
+  "signUpWithApple": "Registrarse con Apple",
+  "creatingAccountWithGoogle": "Creando cuenta con Google...",
+  "creatingAccountWithApple": "Creando cuenta con Apple...",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "checkYourEmail": "Revisa tu correo",
+  "forgotPasswordSubtitle": "¡No te preocupes! Ingresa tu dirección de correo y te enviaremos un enlace para restablecer tu contraseña.",
+  "emailSentMessage": "Hemos enviado un enlace para restablecer tu contraseña a tu dirección de correo. Por favor revisa tu bandeja de entrada y sigue las instrucciones.",
+  "emailAddress": "Dirección de correo",
+  "enterEmailAddress": "Ingresa tu dirección de correo",
+  "sendResetLink": "Enviar enlace de restablecimiento",
+  "backToLogin": "Volver al inicio de sesión",
+  "emailSent": "Correo enviado",
+  "sendingResetLink": "Enviando enlace de restablecimiento...",
+  "emailSentSuccessfully": "¡Correo de restablecimiento enviado exitosamente!",
+  "resendEmail": "Reenviar correo",
+  "openEmailApp": "Abrir aplicación de correo",
+  "resetLinkSentAgain": "¡Enlace de restablecimiento enviado nuevamente!",
+  "openingEmailApp": "Abriendo aplicación de correo...",
+  "forgotPasswordQuestion": "¿Olvidaste tu contraseña?",
+  "rememberSession": "Recordar sesión",
+  "progress": "Ñawpaqman",
+  "episodeContent": "Episodio Contenido",
+  "episodeContentPlaceholder": "Episodio contenido kaypi rikukunqa",
+  "replayEpisode": "Episodio Kutichiy",
+  "startEpisode": "Episodio Qallariy",
+  "startingEpisode": "{episodeTitle} qallarikuspa...",
+  "@startingEpisode": {
+    "placeholders": {
+      "episodeTitle": {
+        "type": "String",
+        "example": "Episodio 1"
+      }
+    }
+  }
+}

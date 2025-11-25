@@ -1,0 +1,437 @@
+{
+  "@@locale": "en",
+  "appTitle": "TECHSPEAK",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "loginButton": "Sign In",
+  "loginWithGoogle": "Sign in with Google",
+  "loginWithApple": "Sign in with Apple",
+  "emailRequired": "Email is required",
+  "emailInvalid": "Please enter a valid email",
+  "passwordRequired": "Password is required",
+  "passwordTooShort": "Password must be at least 12 characters",
+  "hi": "Hi",
+  "continueText": "Continue",
+  "vocabulary": "Vocabulary",
+  "reading": "Reading",
+  "readingPracticeSubtitle": "Practice the words",
+  "interview": "Interview",
+  "chooseYourPreferredTopic": "Choose your preferred topic",
+  "home": "Home",
+  "documents": "Documents",
+  "book": "Book",
+  "@book": {
+    "description": "Book section title"
+  },
+  "help": "Help",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "colorPalette": "Color Palette",
+  "system": "System",
+  "notifications": "Notifications",
+  "notificationsEnabled": "Notifications enabled",
+  "notificationsDisabled": "Notifications disabled",
+  "logout": "Logout",
+  "selectLanguage": "Select Language",
+  "selectColorPalette": "Select Color Palette",
+  "confirmLogout": "Confirm Logout",
+  "logoutConfirmation": "Are you sure you want to logout?",
+  "cancel": "Cancel",
+  "welcomeBack": "Welcome back!",
+  "yourLearningPath": "Your Learning Path",
+  "learningSlogan": "Learn • Practice • Master",
+  "signingYouIn": "Signing you in...",
+  "connectingWithGoogle": "Connecting with Google...",
+  "connectingWithApple": "Connecting with Apple...",
+  "loadingExperience": "Loading your learning experience...",
+  "initializingExperience": "Initializing your learning experience...",
+  "or": "OR",
+  "user": "User",
+  "loading": "Loading...",
+
+  "livesRemaining": "{lives} lives remaining",
+  "@livesRemaining": {
+    "placeholders": {
+      "lives": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+
+  "chapterProgress": "Chapter 4/5",
+  "software": "Software",
+  "databases": "Databases",
+
+  "navigatingToSection": "Navigating to {section} section...",
+  "@navigatingToSection": {
+    "placeholders": {
+      "section": {
+        "type": "String",
+        "example": "Vocabulary"
+      }
+    }
+  },
+
+  "emailPasswordRequired": "Email and password are required",
+  "invalidCredentials": "Invalid credentials. Please check your email and password.",
+  "googleSignInFailed": "Google sign in failed",
+  "appleSignInFailed": "Apple sign in failed",
+  "errorDuringLogout": "Error during logout",
+  "errorCheckingAuth": "Error checking authentication status",
+  "errorInMockLogin": "Error in mock login",
+  "comingSoon": "Coming Soon",
+
+  "sectionTitle": "{title} Section",
+  "@sectionTitle": {
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "Vocabulary"
+      }
+    }
+  },
+
+  "selectCustomColor": "Select Custom Color",
+  "hue": "Hue",
+  "saturation": "Saturation",
+  "lightness": "Lightness",
+  "quickColors": "Quick Colors",
+  "selectColor": "Select Color",
+
+  "quiz": "Quiz",
+  "question": "Question",
+  "submit": "Submit",
+  "nextQuestion": "Next Question",
+  "score": "Score",
+  "points": "points",
+
+  "completeePreviousEpisode": "Complete the previous episode to unlock this one",
+  "episodeCompleted": "Episode completed - Tap to replay",
+  "continueEpisode": "Continue episode",
+  "completePreviousEpisode": "Complete previous episode to unlock",
+
+  "playingEpisode": "Playing {episodeTitle}",
+  "@playingEpisode": {
+    "placeholders": {
+      "episodeTitle": {
+        "type": "String",
+        "example": "Episode 1"
+      }
+    }
+  },
+
+  "dontHaveAccount": "Don't have an account?",
+  "signUp": "Sign Up",
+  "createAccount": "Create Account",
+  "joinUsSlogan": "Join us to start your technical English journey",
+  "fullName": "Full Name",
+  "enterFullName": "Enter your full name",
+  "confirmPassword": "Confirm Password",
+  "enterConfirmPassword": "Re-enter your password",
+  "acceptTerms": "I accept the Terms of Service and Privacy Policy",
+  "pleaseEnterName": "Please enter your name",
+  "nameTooShort": "Name must be at least 2 characters",
+  "passwordsDontMatch": "Passwords don't match",
+  "pleaseAcceptTerms": "Please accept the terms and conditions",
+  "alreadyHaveAccount": "Already have an account?",
+  "signIn": "Sign In",
+  "creatingAccount": "Creating your account...",
+  "register": "Register",
+  "signUpWithGoogle": "Sign up with Google",
+  "signUpWithApple": "Sign up with Apple",
+  "creatingAccountWithGoogle": "Creating account with Google...",
+  "creatingAccountWithApple": "Creating account with Apple...",
+
+  "forgotPassword": "Forgot Password?",
+  "checkYourEmail": "Check Your Email",
+  "forgotPasswordSubtitle": "Don't worry! Enter your email address and we'll send you a link to reset your password.",
+  "emailSentMessage": "We've sent a password reset link to your email address. Please check your inbox and follow the instructions.",
+  "emailAddress": "Email Address",
+  "enterEmailAddress": "Enter your email address",
+  "sendResetLink": "Send Reset Link",
+  "backToLogin": "Back to Login",
+  "emailSent": "Email Sent",
+  "sendingResetLink": "Sending reset link...",
+  "emailSentSuccessfully": "Password reset email sent successfully!",
+  "resendEmail": "Resend Email",
+  "openEmailApp": "Open Email App",
+  "resetLinkSentAgain": "Reset link sent again!",
+  "openingEmailApp": "Opening email app...",
+  "forgotPasswordQuestion": "Forgot your password?",
+  "rememberSession": "Remember session",
+
+  "folders": "Folders",
+  "@folders": {
+    "description": "Folders section title"
+  },
+
+  "errorLoadingLives": "Error loading lives",
+  "retry": "Retry",
+  "noLivesRemaining": "No lives remaining!",
+  "livesResetTomorrow": "Lives reset tomorrow",
+  "nextResetTomorrow": "Next reset tomorrow",
+  "refresh": "Refresh",
+  "episodeRoadmap": "Episode Roadmap",
+
+  "repeatChapterTitle": "Repeat Chapter",
+  "repeatChapterWarning": "You've already completed this chapter. Repeating it won't affect your current score, but it's a great way to reinforce your learning.",
+
+  "currentScore": "Current score: {score} points",
+  "@currentScore": {
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "85"
+      }
+    }
+  },
+
+  "repeatChapterBenefit": "Practice makes perfect! Use this opportunity to strengthen your knowledge.",
+  "repeatChapter": "Repeat Chapter",
+
+  "chapterResetForRepetition": "Chapter '{chapterTitle}' has been reset for repetition. Your original score is preserved!",
+  "@chapterResetForRepetition": {
+    "placeholders": {
+      "chapterTitle": {
+        "type": "String",
+        "example": "English Basics"
+      }
+    }
+  },
+
+  "progress": "Progress",
+  "episodeContent": "Episode Content",
+  "episodeContentPlaceholder": "Episode content will be displayed here",
+  "replayEpisode": "Replay Episode",
+  "startEpisode": "Start Episode",
+
+  "startingEpisode": "Starting {episodeTitle}...",
+  "@startingEpisode": {
+    "placeholders": {
+      "episodeTitle": {
+        "type": "String",
+        "example": "Episode 1"
+      }
+    }
+  },
+
+  "vocabularyChaptersTitle": "Vocabulary Chapters",
+  "loadingVocabularyChapters": "Loading vocabulary chapters...",
+  "errorLoadingChapters": "Error loading chapters",
+  "unknownError": "An unknown error occurred",
+  "dismiss": "Dismiss",
+  "tryAgain": "Try Again",
+  "noChaptersAvailable": "No chapters available",
+  "noChaptersDescription": "Check back later for new vocabulary chapters",
+  "yourProgress": "Your Progress",
+  "chaptersCompleted": "Chapters Completed",
+  "unlocked": "Unlocked",
+  "locked": "Locked",
+  "completed": "Completed",
+  "continue_": "Continue",
+  "start": "Start",
+  "chapterLocked": "Chapter Locked",
+  "chapterLockedDescription": "Complete chapter {previousChapter} to unlock this chapter",
+  "@chapterLockedDescription": {
+    "placeholders": {
+      "previousChapter": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  "understood": "Understood",
+  "chapterCompleted": "Chapter Completed",
+  "chapterCompletedDescription": "You have already completed this chapter. You can review it anytime.",
+  "completedOn": "Completed on {date}",
+  "@completedOn": {
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "12/31/2025"
+      }
+    }
+  },
+  "close": "Close",
+  "reviewChapter": "Review Chapter",
+  "noLivesTitle": "No Lives Available",
+  "noLivesMessage": "You need at least one life to start a chapter. Lives reset daily.",
+  "nextResetAt": "Next reset at {time}",
+  "@nextResetAt": {
+    "placeholders": {
+      "time": {
+        "type": "String",
+        "example": "08:00"
+      }
+    }
+  },
+
+  "evaluationDetails": "Evaluation Details",
+  "completedDate": "Completed Date",
+  "attempts": "Attempts",
+  "timeSpent": "Time Spent",
+  "skillBreakdown": "Skill Breakdown",
+  "feedback": "Feedback",
+  "featureComingSoon": "This feature is coming soon!",
+  "chapter": "Chapter",
+  "evaluationInfo": "Evaluation Information",
+  "chapterResults": "Chapter Results",
+  "allChapters": "All Chapters",
+  "noEvaluationsFound": "No evaluations found",
+  "completeChaptersToSeeResults": "Complete chapters to see results",
+
+  "restart": "Restart",
+  "restartPracticeConfirm": "Are you sure you want to restart? Your current progress will be lost.",
+  "error": "Error",
+  "unknownError": "An unknown error occurred",
+  "retry": "Retry",
+  "noVocabularyItems": "No vocabulary items available",
+  "showAnswer": "Show Answer",
+  "dontKnow": "Don't Know",
+  "iKnow": "I Know",
+  "practiceCompleted": "Practice Completed!",
+  "score": "Score",
+  "correct": "Correct",
+  "incorrect": "Incorrect",
+  "practiceAgain": "Practice Again",
+  "backToChapters": "Back to Chapters",
+
+  "readingChapters": "Reading Chapters",
+  "page": "Page",
+  "chaptersCompleted": "Chapters Completed",
+  "completed": "Completed",
+  "chapterLocked": "This chapter is locked. Complete the previous chapter first.",
+  "noLives": "No Lives",
+  "noLivesMessage": "You have no lives remaining. Please wait for the next reset.",
+  "nextReset": "Next Reset",
+  "ok": "OK",
+  "noChaptersAvailable": "No chapters available",
+  "previous": "Previous",
+  "next": "Next",
+  "startQuiz": "Start Quiz",
+  "question": "Question",
+  "submit": "Submit",
+  "congratulations": "Congratulations!",
+  "chapterCompleted": "You have completed this chapter!",
+  "tryAgain": "Try Again",
+  "scoreNotEnough": "You need at least 7 correct answers to pass (70%).",
+  "exitQuiz": "Exit Quiz",
+  "exitQuizConfirmation": "Are you sure you want to exit? Your progress will be lost.",
+  "exit": "Exit",
+
+  "outOfLives": "Out of Lives!",
+  "outOfLivesMessage": "You've used all your lives for today. Take a break and come back tomorrow for a fresh start!",
+  "livesReset": "Lives Reset",
+  "nextResetIn": "Next reset of lives in {hours} hours",
+  "@nextResetIn": {
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "reviewTime": "Use this time to review what you've learned!",
+  "iUnderstand": "I Understand",
+
+  "interviewTopicsTitle": "Interview Topics",
+  "loadingInterviewTopics": "Loading interview topics...",
+  "noTopicsAvailable": "No topics available",
+  "startInterviewTitle": "Start {topicName} Interview?",
+  "@startInterviewTitle": {
+    "placeholders": {
+      "topicName": {
+        "type": "String",
+        "example": "JavaScript"
+      }
+    }
+  },
+  "questions": "Questions",
+  "duration": "Duration",
+  "difficulty": "Difficulty",
+  "questionsCount": "{count} questions",
+  "@questionsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "durationMinutes": "{minutes} min",
+  "@durationMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "8"
+      }
+    }
+  },
+  "interviewDash": "Interview - {topicName}",
+  "@interviewDash": {
+    "placeholders": {
+      "topicName": {
+        "type": "String",
+        "example": "JavaScript"
+      }
+    }
+  },
+  "voiceRecordingComingSoon": "Voice Recording - Coming Soon",
+  "holdToRecord": "Hold to record",
+  "releaseToSend": "Release to send",
+  "recording": "Recording...",
+  "getResults": "Get Results",
+  "sendingAudio": "Sending audio...",
+  "recordedSeconds": "Recorded: {seconds}s",
+  "@recordedSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "nextQuestion": "Next Question",
+  "reRecord": "Record Again",
+  "yourAnswer": "Your Answer",
+  "typeYourAnswerHere": "Type your answer here...",
+  "minimumCharacters": "Minimum {count} characters",
+  "@minimumCharacters": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "80"
+      }
+    }
+  },
+  "pleaseEnterAnswer": "Please enter an answer",
+  "submitAnswer": "Submit Answer",
+  "answerEvaluation": "Answer Evaluation",
+  "scoreBreakdown": "Score Breakdown",
+  "viewFinalResults": "View Final Results",
+  "interviewComplete": "Interview Complete",
+  "keepPracticing": "Keep Practicing!",
+  "overallScore": "Overall Score: {score}/100",
+  "@overallScore": {
+    "placeholders": {
+      "score": {
+        "type": "String",
+        "example": "85.5"
+      }
+    }
+  },
+  "backToTopics": "Back to Topics",
+  "fluency": "Fluency",
+  "grammar": "Grammar",
+  "vocabulary_skill": "Vocabulary",
+  "pronunciation": "Pronunciation",
+  "coherence": "Coherence",
+  "beginner": "Beginner",
+  "intermediate": "Intermediate",
+  "advanced": "Advanced"
+}
